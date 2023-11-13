@@ -1,0 +1,11 @@
+.logo {width: 80px;height: 80px;background-color: #431D32;}
+nav {display: flex;justify-content: space-around;}
+a {font-size: 25px;text-decoration: none;color: white;font-weight: 900;}
+header {background-color:#431D32;padding: 15px;}
+body {margin-left: 0;margin-right: 0;margin-top: 0;}
+footer {background-color: #2A3759;padding:20px}
+footer p {color:white;text-align: center;font-weight: 900;font-size: 25px;}
+h1 {text-align: center;position: relative;bottom: 100px;font-size: 55px;color: white;}
+main {background-image:url(https://th.bing.com/th/id/R.dcacb0d03b0fd227c428e21c2fa2c7c1?rik=Ex2YQDL48v99rQ&riu=http%3a%2f%2fcdn.chatsports.com%2fthumbnails%2f4779-99259-original.jpeg&ehk=fM49Ocf3tFdY9uFlUp6ELHuNuv%2bqwU%2bf0uKGnFJcDbA%3d&risl=&pid=ImgRaw&r=0) ;
+background-size: cover;background-repeat: no-repeat;padding: 100px;margin-bottom: 0;}
+main p {color: white;background-color: black;font-size: 25px;text-align: center;}
